@@ -1,0 +1,11 @@
+exerc01$4
+exerc01$5
+exerc01$6
+exerc01$7
+exerc01$1
+exerc01$2
+exerc01$3
+exerc01$10
+exerc01
+exerc01$8
+exerc01$9
